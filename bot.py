@@ -7,8 +7,8 @@ import io
 
 # --- Configuration ---
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
-PASSKEY_BASIC = "stakebasic123"
-PASSKEY_KING = "stakeking123"
+PASSKEY_BASIC = "AjdJe62BHkaie"
+PASSKEY_KING = "Sushru73TyaMisGHn"
 CHOOSE_PLAN, ASK_PASSKEY, ASK_SEED = range(3)
 
 # --- Logging ---
